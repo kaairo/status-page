@@ -63,3 +63,7 @@ python app.py
 ```
 
 La aplicación estará disponible en `http://<host>:<port>`, donde `<host>` y `<port>` son los valores configurados en `config.json`.
+
+
+![image](https://github.com/user-attachments/assets/032c2ace-e79f-4603-819d-643a41418b7e)
+
