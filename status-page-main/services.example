@@ -1,0 +1,7 @@
+[
+    {
+       "name": "Service",
+       "type": "HTTP/S - UDP - TCP - SAMP",
+       "destination": "https://google.com"
+    }
+]

@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+    color: #F7F7F7;
+    background-color: #131A26;
+}
+
+.card {
+    background-color: #212937;
+    border-radius: 15px;
+    box-shadow: 1px 1px 52px 0px rgba(0,0,0,0.16);
+    -webkit-box-shadow: 1px 1px 52px 0px rgba(0,0,0,0.16);
+    -moz-box-shadow: 1px 1px 52px 0px rgba(0,0,0,0.16);
+}
+
+.card-header {
+    border-top-left-radius: 10px !important;
+    border-top-right-radius: 10px !important;
+    background-color: #1e2531;
+    font-weight: 500;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.rounded-pill {
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    font-weight: 300;
+    color: #0a0a0a;
+}
+
+.bg-success {
+    background-color: #498d40;
+}
+
+.bg-danger {
+    background-color: #9c4040;
+}
+
+.bg-warning {
+    background-color: #dabc37;
+}
+
+.value-separator {
+    color: #687790;
+}
+
+.value-box {
+    background-color: #1a1a1a;
+    color: #DADADA;
+    border-radius: 5px;
+    letter-spacing: 0.5px;
+    padding: 3px;
+}
+
+.link {
+    color: #c9c9c9;
+    transition: 0.5s;
+}
+
+.link:hover {
+    color: #FFF;
+}
+
+.alert-warning {
+    color: #c7b23a;
+    background-color: #131A26;
+    border-radius: 5px;
+
+    outline: 0;
+    border: solid #c7b23a 1.9px;
+    border-left: solid #c7b23a 6px;
+    box-shadow: 0px 0px 10px -1px rgba(47, 48, 2, 0.49);
+    -webkit-box-shadow: 0px 0px 10px -1px rgba(47, 48, 2, 0.49);
+    -moz-box-shadow: 0px 0px 10px -1px rgba(47, 48, 2, 0.49);
+}
